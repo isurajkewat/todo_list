@@ -1,0 +1,14 @@
+#design {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Todo-app {
+    background-color: rgb(255, 213, 0);
+    text-align: center;
+    border-radius: 10px;
+}
+
+#dlt{
+    border-radius: 5px;
+}
